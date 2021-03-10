@@ -49,7 +49,6 @@
                     $("#resultado").append('<li class="list-group-item" id="'+cont+'">'+name[i]+'</li>');
                     console.log(name[i])
                 }
-
                 $("#listName").addClass("disabled");
             });
 
